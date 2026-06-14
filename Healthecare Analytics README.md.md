@@ -1,5 +1,3 @@
-
-
 ## Healthcare Analytics Dashboard
 ## Project Overview
 This Healthcare Analytics Dashboard was developed to analyze patient trends, hospital
